@@ -1,7 +1,7 @@
 *
 !.gitignore
-./README.md
-./problem_unittests.py
-./dlnd_image_classification.html
-./dlnd_image_classification.ipynb
-./helper.py
+README.md
+problem_unittests.py
+dlnd_image_classification.html
+dlnd_image_classification.ipynb
+helper.py
